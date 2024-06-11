@@ -1,3 +1,4 @@
+Ejercicio 8:
 En un Empty qmake Project
 Crear una función genérica que imprima por consola una descripción de cualquier objeto.
 El mensaje puede ser algo así: "Persona con nombre Lucrecia", "Poste con altura de 8 metros y 15 cm de diámetro".
